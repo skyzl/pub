@@ -1,7 +1,11 @@
 readreadread
 next second
 third 
+<<<<<<< HEAD
 switch dev
 now is dev change
+=======
+git merge dev
+>>>>>>> dev
 ??
 
