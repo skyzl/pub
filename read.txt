@@ -1,7 +1,6 @@
 readreadread
 next second
 third 
-switch dev
-switch master
-now is dev change
+git merge dev
 ??
+
