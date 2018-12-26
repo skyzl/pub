@@ -1,6 +1,7 @@
 readreadread
 next second
 third 
-git merge dev
-??
+produce conflict
+
+
 
